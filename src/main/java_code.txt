@@ -1,2 +1,4 @@
 My first change!!
+developer2 has modified this file
 Hello world,lets demo the conflict.
+
